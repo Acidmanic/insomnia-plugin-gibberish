@@ -1,7 +1,5 @@
-Gibberish Plugin
+Feature Time Plugin
 ===================
-
-
 
 How To Use
 ------
@@ -54,7 +52,7 @@ __Parameters__
 How to install
 ---------------
 
-__Using Insomnia Hub:__ You can navigate to [Insomnia Plugin Hub Page](https://insomnia.rest/plugins) and search for __Gibberish__, Open the details page and click __Install Plugin__ button. This throw an installation link which you can open with your insomnia on your desktop.
+__Using Insomnia Hub:__ You can navigate to [Insomnia Plugin Hub Page](https://insomnia.rest/plugins) and search for __insomnia-plugin-gibberish__, Open the details page and click __Install Plugin__ button. This throw an installation link which you can open with your insomnia on your desktop.
 
 
 __Directly installing the zip file:__: You can [download](https://github.com/Acidmanic/insomnia-plugin-gibberish/archive/refs/heads/master.zip) project zip file from github. 
