@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-gibberish",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "gibberish",
+    "description": ""
+  },
+  "main": "main.js"
+}
