@@ -2,9 +2,19 @@
   "name": "insomnia-plugin-gibberish",
   "version": "0.0.1",
   "private": false,
+  "main": "main.js",
   "insomnia": {
     "name": "gibberish",
-    "description": "This plugin adds template tags for generating random texts, numbers and phone numbers"
-  },
-  "main": "main.js"
+    "displayName": "Gibberish",
+    "description": "This plugin adds template tags for generating random texts, numbers and phone numbers",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.png"
+    },
+    "publisher": {
+      "name": "Mani Moayedi", 
+      "icon": "https://avatars.githubusercontent.com/u/18609123?v=4"
+    },
+    "unlisted": false
+  }
 }

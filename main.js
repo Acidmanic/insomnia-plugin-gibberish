@@ -82,8 +82,8 @@ module.exports.templateTags = [
         description: 'Creates a meaningless word using random characters.',
         args: [
             {
-                displayName: 'World Length',
-                description: 'World Length',
+                displayName: 'Word Length',
+                description: 'Word Length',
                 type: 'number',
                 defaultValue: 8
             },
