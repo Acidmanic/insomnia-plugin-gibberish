@@ -1,10 +1,10 @@
 {
   "name": "insomnia-plugin-gibberish",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "insomnia": {
     "name": "gibberish",
-    "description": ""
+    "description": "This plugin adds template tags for generating random texts, numbers and phone numbers"
   },
   "main": "main.js"
 }
